@@ -246,3 +246,12 @@ footer h4 {
 .card-list p {
 	margin-bottom: 5px;
 }
+
+footer.explore-footer {
+	background-color: #E83434;
+	color: white;
+}
+
+footer.explore-footer .right-foot ul li a {
+	color: white;
+}
