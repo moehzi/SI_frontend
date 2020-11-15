@@ -255,3 +255,66 @@ footer.explore-footer {
 footer.explore-footer .right-foot ul li a {
 	color: white;
 }
+
+.detail {
+	display: flex;
+	width: 90%;
+	margin: 84px auto;
+}
+
+.detail-product h3 {
+	font-size: 48px;
+}
+
+.detail-product p.price {
+	font-size: 30px;
+	font-style: italic;
+}
+
+.detail-product p.desc-prod {
+	font-size: 24px;
+	font-style: italic;
+	margin: 19px 0 32px 0;
+}
+
+.form-buy {
+	font-size: 24px;
+	display: flex;
+	flex-direction: column;
+}
+
+.form-buy input {
+	height: 40px;
+	border-radius: 10px;
+	margin: 8px 0 32px 0;
+}
+
+.btn {
+	padding: 13px;
+	border-radius: 50px;
+	border: none;
+}
+
+.btn-primary {
+	background-color: #A03939;
+	color: white;
+	font-size: 24px;
+}
+
+.another-prod {
+	width: 90%;
+	margin: 0 auto 72px auto;
+}
+
+.buyers-review {
+	margin-top: 24px;
+	width: 80%;
+}
+
+.buyers-review h4 {
+	font-size: 24px;
+}
+
+.buyers-review p {
+	font-size: 20px;
+}
