@@ -55,3 +55,24 @@ body {
 	text-decoration: none;
 	margin-right: 24px;
 }
+
+nav {
+	background-color: #F5E1E1;
+}
+
+ul {
+	display: flex;
+	justify-content: space-around;
+	width: 80%;
+	margin: auto;
+	padding: 16px 0;
+}
+
+ul li {
+	list-style: none;
+}
+
+ul li a {
+	text-decoration: none;
+	color: black;
+}
