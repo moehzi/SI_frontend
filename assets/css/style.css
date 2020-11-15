@@ -116,3 +116,52 @@ ul li a {
 	font-size: 18px;
 	margin-bottom: 8px;
 }
+
+.about {
+	background-color: #A54242;
+	padding: 48px;
+}
+
+.about h1 {
+	font-size: 51px;
+	color: white;
+}
+
+.about h1 span {
+	font-family: 'Saira Stencil One';
+	color: black;
+}
+
+.desc-about {
+	display: flex;
+	color: white;
+	align-items: center;
+	font-size: 30px;
+	justify-content: space-between;
+	padding: 24px 98px;
+}
+
+.desc-about p {
+	margin-left: 184px;
+}
+
+footer {
+	display: flex;
+	justify-content: space-between;
+	padding: 24px 48px;
+	align-items: center;
+}
+
+footer h4 {
+	font-size: 36px;
+	font-family: 'Saira Stencil One';
+}
+
+.right-foot {
+	width: 50%;
+}
+
+.right-foot ul li a {
+	font-size: 18px;
+	color: blue;
+}
