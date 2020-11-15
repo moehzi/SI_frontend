@@ -165,3 +165,54 @@ footer h4 {
 	font-size: 18px;
 	color: blue;
 }
+
+.content {
+	padding: 24px;
+}
+
+.list-product {
+	margin: 64px auto;
+	width: 80%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.filter-tab {
+	background-color: #A54242;
+	width: 300px;
+	border-radius: 10px;
+}
+
+.offer {
+	color: white;
+	margin: 28px;
+}
+
+.checkbox {
+	display: flex;
+	align-items: center;
+	margin: 10px;
+}
+
+.checkbox input {
+	margin-right: 8px;
+}
+
+.to {
+	margin-right: 8px;
+}
+
+.offer p {
+	font-size: 17px;
+}
+
+.checkbox p {
+	font-size: 14px;
+}
+
+.input-range {
+	width: 93px;
+	border-radius: 5px;
+	border: none;
+	height: 18px;
+}
